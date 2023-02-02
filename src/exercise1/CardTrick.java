@@ -9,7 +9,7 @@ import java.util.*;
  * the user's card. To be used as starting code in Exercise
  *
  * @author dancye
- * @author Paul Bonenfant Jan 25, 2022
+ * @author Natalee Bui Feb 3, 2023
  */
 public class CardTrick {
 
@@ -75,8 +75,10 @@ public class CardTrick {
      * A simple method to print out personal information. Follow the
      * instructions to replace this information with your own.
      *
-     * @author Paul Bonenfant Jan 2022
+     * @author Natalee Bui Feb 3, 2023
      */
+    
+    //I'm done!
     private static void printInfo() {
 
         System.out.println("Congratulations, you guessed right!");
